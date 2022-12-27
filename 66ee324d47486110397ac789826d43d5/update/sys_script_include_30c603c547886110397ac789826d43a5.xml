@@ -5,26 +5,26 @@
         <api_name>global.test_story_1</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description>test</description>
+        <description>test modified 1111</description>
         <name>test_story_1</name>
         <script><![CDATA[var test_story_1 = Class.create();
 test_story_1.prototype = {
     initialize: function() {
     },
-	//test
+	//test modified
     type: 'test_story_1'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>huyton.le@dxc.com</sys_created_by>
         <sys_created_on>2022-12-27 05:08:07</sys_created_on>
         <sys_id>30c603c547886110397ac789826d43a5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>test_story_1</sys_name>
         <sys_package display_value="testpipeline" source="66ee324d47486110397ac789826d43d5">66ee324d47486110397ac789826d43d5</sys_package>
         <sys_policy/>
         <sys_scope display_value="testpipeline">66ee324d47486110397ac789826d43d5</sys_scope>
         <sys_update_name>sys_script_include_30c603c547886110397ac789826d43a5</sys_update_name>
         <sys_updated_by>huyton.le@dxc.com</sys_updated_by>
-        <sys_updated_on>2022-12-27 05:13:42</sys_updated_on>
+        <sys_updated_on>2022-12-27 05:43:44</sys_updated_on>
     </sys_script_include>
 </record_update>
